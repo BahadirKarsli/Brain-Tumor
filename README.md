@@ -73,7 +73,10 @@ results[0].show()
 ---
 
 ## 🖼️ Sample Results
-
+<div align="center">
+  <p><i>Below is a sample of the model identifying a tumorous region with high confidence.</i></p>
+  <img src="tumor_prediction.png" alt="Brain Tumor Detection Sample" width="600px">
+</div>
 ---
 
 ## ⚖️ Disclaimer

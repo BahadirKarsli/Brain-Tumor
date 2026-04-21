@@ -56,8 +56,8 @@ pip install ultralytics opencv-python matplotlib
 ```
 ### 2. Inference
 To run detection on a new MRI scan, use the following snippet:
-```
-Python
+
+```python
 from ultralytics import YOLO
 import cv2
 
